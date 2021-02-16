@@ -1,7 +1,18 @@
-.image {
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+section {
+  height: 100vh;
+  text-align: center;
+}
+
+.box {
+  background-color: black;
   height: 50vh;
   width: 300px;
-  background: black;
-  margin: 2rem auto;
 }
 /*# sourceMappingURL=styles.css.map */
